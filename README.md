@@ -1,8 +1,8 @@
-[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/TeamDarkAnon)
+[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/HacksXploit)
 
 [![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com)
 
-#                     TELE RAT
+#                     T RAT
 
 A multifunctional Telegram based Android RAT  without port forwarding.
 ## Features
@@ -80,25 +80,13 @@ A multifunctional Telegram based Android RAT  without port forwarding.
  - start your bot 
  - now you can monitor all device who will install the apk
 
-### ❤️Thank you Supporters❤️
-[![Stargazers repo roster for @TeamDarkAnon/Tele-Rat](https://reporoster.com/stars/dark/TeamDarkAnon/Tele-Rat)](https://github.com/TeamDarkAnon/Tele-Rat/stargazers)
-## 🔗 CONTACT
-[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/TeamDarkAnon)
-
-[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com)
-
-
 ## Disclaimer
 
 Devolper Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
 Dogerat is built for both Educational and Internal use ONLY.
-- Make sure the Telegram username is @TeamDarkAnon beware from scam
+- Make sure the Telegram username is  beware from scam
 
 
 
-## ALCOHOL SUPPORT 
-!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
-- Bitcoin
-- 1LeLwYyDHu51875aenZaNcEnMrEbHwEKJd
-- Usdt trc20
-- TWX456AoupoYKwCYUKk3ZMWJtNJZRRHnrp
+## CREDITS TO
+𝐓𝐞𝐚𝐦 𝐃𝐚𝐫𝐤 𝐀𝐧𝐨𝐧
